@@ -1,10 +1,10 @@
----
 name: "GitHub Presente"
-about: "Event to invite community speakers for GitHub Presente"
+description: "Event to invite community speakers for GitHub Presente"
 labels: ["event", "meetup"]
 assignees: []
 
 ---
+
 ## Event Details
 **Host:** [HOST_NAME]  
 **Date and Time:** [DATE TIME]
