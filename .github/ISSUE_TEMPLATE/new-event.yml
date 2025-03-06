@@ -6,14 +6,17 @@ assignees: []
 ---
 
 ## Event Details
-**Host:** [HOST_NAME]  
-**Date and Time:** [DATE TIME]
+
+- **Host:** [HOST_NAME]
+- **Date and Time:** [DATE TIME]
 
 ### Speakers and Talks
+
 - **Speaker 1**: Talk 1
 - **Speaker 2**: Talk 2
 
 ### Program Structure
+
 - Quick intros
 - Talks
 - Q&A
@@ -21,7 +24,7 @@ assignees: []
 
 ### To-do:
 
-#### Before
+#### Before the Event
 - [ ] Send invitations
 - [ ] Create graphic assets
 - [ ] Create event on Meetup
@@ -29,7 +32,7 @@ assignees: []
 - [ ] Prepare slide deck
 - [ ] Share details with Social Media team
 
-#### After
+#### After the Event
 - [ ] Highlight talks on Twitch
 - [ ] Share talk links with Speakers
 - [ ] Post event content on social media
