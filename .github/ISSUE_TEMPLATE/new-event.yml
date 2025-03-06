@@ -1,8 +1,13 @@
 name: "Organização do GitHub Presente"
 description: "Template para organizar edições do GitHub Presente."
-title: "GitHub Presente - [MÊS/ANO]"
-labels: ["github-presente", "event", "meetup", "pending"]
-assignees: ["pachicodes"]
+title: "GitHub Presente - MÊS/ANO"
+labels: 
+  - "github-presente"
+  - "event"
+  - "meetup"
+  - "pending"
+assignees: 
+  - "pachicodes"
 
 body:
   - type: markdown
@@ -61,42 +66,4 @@ body:
         - Q&A com palestrantes
         - Encerramento
     validations:
-      required: true
-
-  - type: checkboxes
-    id: pre_event_tasks
-    attributes:
-      label: 📌 Antes do Evento
-      description: Checklist das tarefas pré-evento.
-      options:
-        - label: Notificar palestrantes selecionados
-        - label: Coletar materiais dos palestrantes (bio, slides, foto)
-        - label: Criar assets gráficos
-        - label: Criar eventos no Meetup, LinkedIn e GitHub Discussions
-        - label: Publicar divulgação nas redes sociais
-        - label: Configurar Streamyard
-        - label: Preparar apresentação do evento
-
-  - type: checkboxes
-    id: live_event_tasks
-    attributes:
-      label: 🎥 No Dia do Evento
-      description: Tarefas a serem feitas durante o evento.
-      options:
-        - label: Entrar no Streamyard 10 min antes
-        - label: Verificar áudio e vídeo dos palestrantes
-        - label: Acompanhar e interagir com o chat
-        - label: Incluir perguntas ao vivo
-
-  - type: checkboxes
-    id: post_event_tasks
-    attributes:
-      label: 📢 Depois do Evento
-      description: Checklist de follow-up pós-evento.
-      options:
-        - label: Criar highlights no Twitch
-        - label: Enviar gravação para palestrantes
-        - label: Publicar conteúdos do evento nas redes sociais
-        - label: Criar GitHub Discussion para perguntas e discussões
-        - label: Analisar métricas do evento (número de viewers, engajamento)
-        - label: Coletar feedback dos palestrantes e audiência
+      required
