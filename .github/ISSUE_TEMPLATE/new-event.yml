@@ -1,9 +1,9 @@
 ## GitHub Presente, DATE TIME
-Host: [HOST_NAME]
+Host: "[HOST_NAME]"
 
-Speakers and talks:
-  - Speaker 1: Talk 1
-  - Speaker 2: Talk 2
+Speakers_and_talks:
+  - Speaker 1: "Talk 1"
+  - Speaker 2: "Talk 2"
 
 ### Program Structure:
 - Quick intros
