@@ -32,14 +32,6 @@ body:
       placeholder: 25/04/2025 - 19:00 BRT
     validations:
       required: true
-  - type: input
-    id: event_link
-    attributes:
-      label: Link do Evento
-      description: URL da transmissão do evento
-      placeholder: https://www.twitch.tv/githubbrasil
-    validations:
-      required: true
   - type: textarea
     id: speakers
     attributes:
@@ -50,18 +42,7 @@ body:
         - Beltrana Dev: Dicas avançadas de Git e GitHub
     validations:
       required: true
-  - type: textarea
-    id: event_structure
-    attributes:
-      label: Estrutura do Evento
-      description: Descreva o fluxo do evento.
-      placeholder: |-
-        - Abertura e introdução
-        - Palestras
-        - Q&A com palestrantes
-        - Encerramento
-    validations:
-      required: true
+  
   - type: checkboxes
     id: pre_event_tasks
     attributes:
