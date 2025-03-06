@@ -1,25 +1,35 @@
-# GitHub Presente, DATE TIME
-Host: "[HOST_NAME]"
+---
+name: "GitHub Presente"
+about: "Event to invite community speakers for GitHub Presente"
+labels: ["event", "meetup"]
+assignees: []
 
-Speakers_and_talks:
-  - Speaker 1: "Talk 1"
-  - Speaker 2: "Talk 2"
+---
+## Event Details
+**Host:** [HOST_NAME]  
+**Date and Time:** [DATE TIME]
 
-Program_Structure:
-  - Quick intros
-  - Talks
-  - Q&A
-  - Networking session
+### Speakers and Talks
+- **Speaker 1**: Talk 1
+- **Speaker 2**: Talk 2
 
-To_do:
-  Before:
-    - Send invitations
-    - Create graphic assets
-    - Create event on Meetup
-    - Create Streamyard and LinkedIn live events
-    - Prepare slide deck
-    - Share details with Social Media team
-  After:
-    - Highlight talks on Twitch
-    - Share talk links with Speakers
-    - Post event content on social media
+### Program Structure
+- Quick intros
+- Talks
+- Q&A
+- Networking session
+
+### To-do:
+
+#### Before
+- [ ] Send invitations
+- [ ] Create graphic assets
+- [ ] Create event on Meetup
+- [ ] Create Streamyard and LinkedIn live events
+- [ ] Prepare slide deck
+- [ ] Share details with Social Media team
+
+#### After
+- [ ] Highlight talks on Twitch
+- [ ] Share talk links with Speakers
+- [ ] Post event content on social media
