@@ -1,27 +1,14 @@
-name: "GitHub Presente"
-description: "Event to invite community speakers for GitHub Presente"
-labels: ["event", "meetup"]
-assignees: []
-
----
-
 ## Event Details
-
-Please fill out the details for the upcoming event.
 
 - **Host:** [HOST_NAME]
 - **Date and Time:** [DATE TIME]
 
 ### Speakers and Talks
 
-Provide the speakers and their respective talks.
-
 - **Speaker 1:** Talk 1
 - **Speaker 2:** Talk 2
 
 ### Program Structure
-
-Outline the structure of the event.
 
 - Quick intros
 - Talks
@@ -29,8 +16,6 @@ Outline the structure of the event.
 - Networking session
 
 ### To-do
-
-List the tasks that need to be completed for this event.
 
 #### Before the Event
 - [ ] Send invitations
