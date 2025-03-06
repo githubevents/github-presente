@@ -1,28 +1,24 @@
-name: "GitHub Presente"
+name: "GitHub Presente Brasil"
 description: "Event to invite community speakers for GitHub Presente"
-labels: 
+labels:
   - "event"
   - "meetup"
-assignees: []
-
+assignees: [pachicodes]
 ---
 
 ## Event Details
 
-Please provide the event details below.
-
 - **Host:** [HOST_NAME]
 - **Date and Time:** [DATE TIME]
+- **Location:** [LOCATION]
 
-### Speakers and Talks
-
+### Speakers
 Please list the speakers and their talks.
 
 - **Speaker 1:** Talk 1
 - **Speaker 2:** Talk 2
 
-### Program Structure
-
+### Agenda
 Outline the structure of the event:
 
 - Quick intros
@@ -31,8 +27,8 @@ Outline the structure of the event:
 - Networking session
 
 ### To-do List
-
 #### Before the Event
+
 - [ ] Send invitations
 - [ ] Create graphic assets
 - [ ] Create event on Meetup
@@ -41,6 +37,7 @@ Outline the structure of the event:
 - [ ] Share details with Social Media team
 
 #### After the Event
-- [ ] Highlight talks on Twitch
+
 - [ ] Share talk links with Speakers
 - [ ] Post event content on social media
+- [ ] Highlight talks on Twitch
