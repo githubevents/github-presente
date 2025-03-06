@@ -1,8 +1,9 @@
 ## GitHub Presente BR, DATE TIME
-Host: 
+Host: [HOST_NAME]
 
 Speakers and talks: 
-
+- Speaker 1: Talk 1
+- Speaker 2: Talk 2
 
 ### Program Structure:
 - Quick intros
@@ -10,17 +11,16 @@ Speakers and talks:
 - Q&A
 - Networking session
 
-
 ### To-do:
 ## Before
-- [] Sent invitations
-- [] Create graphic assets
-- [] Create event on Meetup 
-- [] Create Streamyard and LinkedIn live events
-- [] Slide deck
-- [] Share with Social
+- [ ] Sent invitations
+- [ ] Create graphic assets
+- [ ] Create event on Meetup 
+- [ ] Create Streamyard and LinkedIn live events
+- [ ] Slide deck
+- [ ] Share with Social
 
 ## After
-- [] Highlight talks on Twitch
-- [] Share talk links with Speakers
-- [] Share on social
+- [ ] Highlight talks on Twitch
+- [ ] Share talk links with Speakers
+- [ ] Share on social
