@@ -1,1 +1,2 @@
-# github-presente
+# GitHub Presente
+GitHub Presente is a monthly online event where two community members share their knowledge through live talks. The focus is on relevant topics for the tech community, such as open source, Git/GitHub, and developer careers. Each edition is followed by a Q&A session with live audience interaction. The aim is to provide a space for learning and exchanging experiences, encouraging active participation from the community.
